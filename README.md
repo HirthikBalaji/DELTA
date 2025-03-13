@@ -17,8 +17,8 @@ This Streamlit app transforms **text from an image** into a **motivational speec
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/image-to-audio-speech.git
-cd image-to-audio-speech
+git clone https://github.com/HirthikBalaji/DELTA.git
+cd DELTA
 ```
 
 ### 2. Install Dependencies
