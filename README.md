@@ -31,6 +31,7 @@ pip install streamlit easyocr pillow
 Install and configure:
 - [`ollama`](https://ollama.com/) (for local LLM inference)
 - [`piper`](https://github.com/rhasspy/piper) (TTS engine)
+- -[`Piper_model`](https://huggingface.co/rhasspy/piper-voices/tree/main/en/en_US/hfc_male/medium) (Model Files)
 
 ---
 
@@ -43,7 +44,7 @@ ollama pull llama3.2
 ```
 
 ### Piper TTS
-Make sure Piper is installed (via WSL or Linux), and you have a model like `en_US-hfc_male-medium.onnx` in the `./piper/` directory:
+Make sure Piper is installed (via WSL or Linux), and you have a model like `en_US-hfc_male-medium.onnx` and `en_US-hfc_male-medium.json` in the `./piper/` directory:
 ```bash
 # Inside WSL or Linux terminal
 cd piper
