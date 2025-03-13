@@ -65,7 +65,7 @@ cd piper
 
 ## 🔉 Example Output
 
-<audio controls> <source src="blah" type="audio/wav"> Your browser does not support the audio element. </audio>
+<audio controls> <source src="https://github.com/HirthikBalaji/DELTA/raw/refs/heads/main/welcome.wav" type="audio/wav"> Your browser does not support the audio element. </audio>
 
 ---
 
